@@ -1,0 +1,26 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(40, 102, 102);
+    font-size: 20px;
+    background-color: peachpuff;
+    font-weight: bold;
+}
+h1{
+    color:palevioletred;
+    text-align: center;
+    max-width: 1000px;
+
+}
+#wrapper{
+max-width: 50%;
+padding: 0 5%;
+margin: 0 auto;
+text-align: center;
+}
+img{
+    text-align: center;
+}
+hr{
+    color:palevioletred;
+    font-size: medium;
+}
